@@ -1,8 +1,9 @@
 # Koduneulesanne-TA22
 
 
-Tailwind installation:
+* Tailwind installation:
 https://tailwindcss.com/docs/installation
+* Figma
 https://www.figma.com/file/REg9lTMxDBCB9xlBPJdgBh/Free-Minimal-Portfolio-Website-UI-(Community)?node-id=0%3A1&t=K3YEPg0WA1BRxMxt-1
 
 
